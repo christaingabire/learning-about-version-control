@@ -1,2 +1,5 @@
 # Learning about Version Control
-Solving merge conflicts is soooooo hard!
+
+Author: Christa Ingabire
+
+Solving merge conflicts takes conscious effort, but I can do it
